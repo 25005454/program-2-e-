@@ -1,10 +1,6 @@
 # program-2-e-
 C module 2
 EX NO:2-e) Factorial of a given number using funcions. 
-Date:19/10/2025 
-Name: VASANTH S 
-Ref no: 25017538
-
 AIM: To write a C program to find the factorial of a given number using functions.
 
 ALGORITHM:
